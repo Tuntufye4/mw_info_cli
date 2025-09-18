@@ -1,0 +1,15 @@
+README.md
+setup.py
+mwinfo/__init__.py
+mwinfo/agriculture_info.py
+mwinfo/cli.py
+mwinfo/currency_converter.py
+mwinfo/demographics_info.py
+mwinfo/district_info.py
+mwinfo/health_info.py
+mwinfo.egg-info/PKG-INFO
+mwinfo.egg-info/SOURCES.txt
+mwinfo.egg-info/dependency_links.txt
+mwinfo.egg-info/entry_points.txt
+mwinfo.egg-info/requires.txt
+mwinfo.egg-info/top_level.txt

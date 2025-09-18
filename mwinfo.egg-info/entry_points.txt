@@ -1,0 +1,2 @@
+[console_scripts]
+mwinfo = mwinfo.cli:main
