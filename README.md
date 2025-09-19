@@ -1,6 +1,6 @@
 # mw_info_cli
-A command line tool for generating mw info 
-
+A command line tool for generating mw info . The tools contains information 
+on agriculture, health, districts and currency
 
 ## Installation
 
@@ -35,3 +35,8 @@ mwinfo agriculture-info --fish Tilapia
 mwinfo currency --amount 5000 --from MWK --to USD
 
 ```
+
+
+## Maintainer
+
+Tuntufye Mwanyongo
